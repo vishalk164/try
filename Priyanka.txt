@@ -1,2 +1,7 @@
 Hello, This is priyanka...
 and This is Sneha...
+
+
+git commit -m "edited by priyanka"
+git push -u origin master
+git pull
